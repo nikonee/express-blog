@@ -1,7 +1,7 @@
 {
   "name": "express-blog",
   "version": "1.0.0",
-  "description": "A blog demo based on node express and mongodb.",
+  "description": "A blog demo based on node expressjs and mongodb.",
   "main": "index.js",
   "scripts": {
     "test_mac": "istanbul cover _mocha",
