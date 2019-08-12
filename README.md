@@ -1,4 +1,4 @@
 # express-blog
 
-### A blog demo based on node express and mongodb.
+### A blog demo based on node expressjs and mongodb.
 
